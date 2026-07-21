@@ -1,3 +1,0 @@
-#Usage
-#Paste your SKUiD below. Change CSV Name. Run Script. 
-Get-MgUser -Filter "assignedLicenses/any(l:l/skuId eq cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46)" -All -ConsistencyLevel eventual -CountVariable count -Property DisplayName,UserPrincipalName,Id,JobTitle | Select-Object DisplayName, UserPrincipalName, Id, JobTitle | Export-Csv "SPB_Licensed_Users.csv" -NoTypeInformation; Write-Host "$count users exported"

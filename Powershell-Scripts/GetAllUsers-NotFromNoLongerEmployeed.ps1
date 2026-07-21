@@ -1,2 +1,0 @@
-﻿Get-ADUser -Filter * -Properties * | Where-Object {($_.DistinguishedName -notlike "*OU=No-Longer-Employed-By-CC,OU=Users,OU=Contoso Corp,DC=contoso,DC=com*") -and
-        ($_.Description -notlike "*former*") -and ($_.DistinguishedName -notlike "*OU=NoLongerEmployedRetentionPeriodExpired,DC=contoso,DC=com*") } | select-object UserPrincipalName, description | Export-csv 'C:\Users\jdoe\OneDrive - contoso.com\Desktop\ActiveUsers31025.csv'
