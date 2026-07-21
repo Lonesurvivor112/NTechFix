@@ -1,4 +1,4 @@
-# Set the source folder (where the extracted ZIP contents are)
+# Set the source folder (where the extracted ZIP contents are) yes
 $sourceFolder = "C:\CompanyData\Scripts\AmazonPDFTools\SourcePDFs\Invoices_YYYY_MM_DD"
 
 # Set the destination folder (where you want all PDFs/images to go)
