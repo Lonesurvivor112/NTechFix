@@ -1,0 +1,4 @@
+{
+    "base_url": "https://your-zammad-instance.com",
+    "token": "YOUR_ZAMMAD_API_TOKEN"
+}
