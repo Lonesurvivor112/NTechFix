@@ -10,18 +10,25 @@ Many of these tools were originally created to solve real-world operational chal
 
 # 📑 Table of Contents
 
-- [🚧 Currentroject-status
-- [🆕 Recently Added Projects](#-recently-addeditHub Integration- [📊 SharePoint Usageeporting
-  - [-hudu-documentation-automation
-  - [📄 PDF Formatting Utilities](#-pdf SharePoint Administration Toolkit - #-zammad-reporting-suite
-- #-repository-purpose
-- [-website-integration
-- [📈 Repositorytatistics
-- [🗂 Repositorytructure
-- [⭐ Featured Projects](#-featured-projectd
-- #-documentation-philosophy
-- [🚀 Future Projects](#️ Disclaimer](#️�‍💻 About NTechFix� Connect](#
-
+- [🚧 Current Project Status](#-current-project-status)
+- [🆕 Recently Added Projects](#-recently-added-projects)
+  - [🌐 Website / GitHub Integration](#-website--github-integration)
+  - [📊 SharePoint Usage Reporting](#-sharepoint-usage-reporting)
+  - [📚 Hudu Documentation Automation](#-hudu-documentation-automation)
+  - [📄 PDF Formatting Utilities](#-pdf-formatting-utilities)
+  - [🛡️ SharePoint Administration Toolkit](#️-sharepoint-administration-toolkit)
+  - [🎫 Zammad Reporting Suite](#-zammad-reporting-suite)
+- [🎯 Repository Purpose](#-repository-purpose)
+- [🌐 Website Integration](#-website-integration)
+- [📈 Repository Statistics](#-repository-statistics)
+- [🗂 Repository Structure](#-repository-structure)
+- [⭐ Featured Projects](#-featured-projects)
+- [🛠 Technologies Used](#-technologies-used)
+- [📚 Documentation Philosophy](#-documentation-philosophy)
+- [🚀 Future Projects](#-future-projects)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [👨‍💻 About NTechFix](#-about-ntechfix)
+- [🔗 Connect](#-connect)
 ---
 
 # 🚧 Current Project Status
