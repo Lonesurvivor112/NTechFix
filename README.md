@@ -23,7 +23,6 @@ Many of these tools were originally created to solve real-world operational chal
 - [🚀 Future Projects](#-future-projects)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [👨‍💻 About NTechFix](#-about-ntechfix)
-- [🔗 Connect](#-connect)
 ---
 
 # 🚧 Current Project Status
@@ -220,7 +219,6 @@ Whenever possible, projects include:
 - Installation instructions
 - Configuration guidance
 - Usage examples
-- Troubleshooting notes
 - Sample outputs
 - Project background and purpose
 
@@ -279,14 +277,5 @@ Technology is constantly evolving, and this repository reflects the ongoing proc
 
 If something here saves time, teaches a new skill, or helps solve a problem, then the project has served its purpose.
 
----
-
-# 🔗 Connect
-
-🌐 Website: https://ntechfix.com
-
-💻 GitHub: https://github.com/NTechFix
-
----
 
 **Thank you for visiting and exploring the projects.**
