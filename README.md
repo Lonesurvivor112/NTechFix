@@ -10,23 +10,17 @@ Many of these tools were originally created to solve real-world operational chal
 
 # 📑 Table of Contents
 
-- #-current-project-status
-- #-recently-added-projects
-  - #-website--github-integration
-  - #-sharepoint-usage-reporting
-  - #-hudu-documentation-automation
-  - #-pdf-formatting-utilities
-  - #️-sharepoint-administration-toolkit
-  - [Zammad Reporting Suite- #-repository-purpose
-- Website Integration
-- #-repository-statistics
-- Repository Structure
-- #-featured-projects
-- [-technologies-used
+- [🚧 Currentroject-status
+- [🆕 Recently Added Projects](#-recently-addeditHub Integration- [📊 SharePoint Usageeporting
+  - [-hudu-documentation-automation
+  - [📄 PDF Formatting Utilities](#-pdf SharePoint Administration Toolkit - #-zammad-reporting-suite
+- #-repository-purpose
+- [-website-integration
+- [📈 Repositorytatistics
+- [🗂 Repositorytructure
+- [⭐ Featured Projects](#-featured-projectd
 - #-documentation-philosophy
-- [Future Projects](#--disclaimer
-- [-about-ntechfix
-- [Connectt
+- [🚀 Future Projects](#️ Disclaimer](#️�‍💻 About NTechFix� Connect](#
 
 ---
 
