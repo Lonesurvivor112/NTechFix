@@ -1,0 +1,53 @@
+{
+    "Microsoft 365": [
+        "outlook",
+        "teams",
+        "sharepoint",
+        "onedrive"
+    ],
+    "Hardware": [
+        "hardware",
+        "laptop",
+        "desktop",
+        "monitor"
+    ],
+    "Network": [
+        "network",
+        "wifi",
+        "vpn",
+        "internet"
+    ],
+    "Printers": [
+        "printer",
+        "scanner",
+        "copier"
+    ],
+    "Security": [
+        "security",
+        "mfa",
+        "password",
+        "phishing"
+    ],
+    "Phones": [
+        "phone",
+        "voip",
+        "extension",
+        "voicemail"
+    ],
+    "User Lifecycle": [
+        "onboarding",
+        "offboarding",
+        "new-user",
+        "termination"
+    ],
+    "Applications": [
+        "software",
+        "application",
+        "licensing"
+    ],
+    "Projects": [
+        "project",
+        "implementation",
+        "upgrade"
+    ]
+}
