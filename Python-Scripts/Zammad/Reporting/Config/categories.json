@@ -1,0 +1,52 @@
+{
+    "Microsoft 365": [
+        "outlook",
+        "teams",
+        "sharepoint",
+        "onedrive"
+    ],
+    "Hardware": [
+        "computer",
+        "laptop",
+        "monitor",
+        "keyboard"
+    ],
+    "Network": [
+        "network",
+        "internet",
+        "wifi",
+        "vpn"
+    ],
+    "Printers": [
+        "printer",
+        "scanner",
+        "copier"
+    ],
+    "Security": [
+        "mfa",
+        "password",
+        "security",
+        "phishing"
+    ],
+    "Phones": [
+        "phone",
+        "voicemail",
+        "cellular",
+        "extension"
+    ],
+    "Onboarding": [
+        "new user",
+        "new hire",
+        "account creation"
+    ],
+    "Offboarding": [
+        "termination",
+        "offboarding",
+        "account removal"
+    ],
+    "Applications": [
+        "software",
+        "application",
+        "program"
+    ]
+}
