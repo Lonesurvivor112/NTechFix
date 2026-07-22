@@ -1,1 +1,0 @@
-(New-Object System.Net.WebClient).DownloadFile("https://vidal.rmm.datto.com/download-agent/windows/8fdc18d0-805f-40ae-8e51-29d42e56021a", "$env:TEMP/AgentInstall.exe");start-process "$env:TEMP/AgentInstall.exe"

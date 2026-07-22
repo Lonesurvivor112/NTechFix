@@ -1,7 +1,7 @@
 
-$tenantId = "c4e9a55a-1564-495f-9805-afac5c2b70a9"
-$clientId = "1545a29e-d160-460e-af9e-d89e153f0a85"
-$clientSecret = "57w8Q~IRe7QHEmLB7crjRzQ~MO1Kw72FTQpaobyl"
+$tenantId = ""
+$clientId = ""
+$clientSecret = ""
 
 $body = @{
     grant_type    = "client_credentials"
