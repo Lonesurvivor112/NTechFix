@@ -17,7 +17,6 @@ Many of these tools were originally created to solve real-world operational chal
   - [🎫 Zammad Reporting Suite](#-zammad-reporting-suite)
 - [🎯 Repository Purpose](#-repository-purpose)
 - [🌐 Website Integration](#-website-integration)
-- [📈 Repository Statistics](#-repository-statistics)
 - [🗂 Repository Structure](#-repository-structure)
 - [🛠 Technologies Used](#-technologies-used)
 - [📚 Documentation Philosophy](#-documentation-philosophy)
@@ -137,30 +136,6 @@ https://nickf.ntechfix.com
 **GitHub:**  
 https://github.com/NTechFix
 
----
-
-# 📈 Repository Statistics
-
-Current repository includes projects focused on:
-
-- PowerShell Administration
-- Python Automation
-- JavaScript Automation
-- Microsoft 365
-- Entra ID
-- Intune
-- SharePoint Online
-- OneDrive
-- Active Directory
-- Snipe-IT
-- Zammad
-- Hudu
-- Reporting & Analytics
-- PDF Automation
-
-Repository contents will continue to expand as new projects are built and documented.
-
----
 
 # 🗂 Repository Structure
 
